@@ -1,8 +1,8 @@
 [package]
 name = "bip-39-solver-cpu"
-version = "0.0.1"
-authors = ["johncantrell97"]
-edition = "2018"
+version = "0.0.1-zn1"
+authors = ["johncantrell97, messed with by Zippy"]
+edition = "2022-zn1"
 
 [dependencies]
 sha2 = "0.8.2"
